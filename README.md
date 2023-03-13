@@ -20,18 +20,7 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-#Developed by: Thanjiyappan.k
-#RegisterNumber:212222240108
 
-
-
-a=float(input())
-b=float(input())
-temp=a
-a=b
-b=temp
-print("Swapped values are: {0} {1}".format(a,b))
-```
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
