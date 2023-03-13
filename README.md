@@ -36,6 +36,7 @@ b=temp
 print("Swapped values are: {0} {1}".format(a,b
 ```
 ## output:
+!![image](https://user-images.githubusercontent.com/118343461/224743525-d239d634-e8be-4696-9ab1-bf62fc7b61dd.png)
 
 
 ## RESULT:
