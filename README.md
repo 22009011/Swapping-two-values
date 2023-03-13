@@ -21,8 +21,5 @@ End the program
 ```
 #Program to swap two values.
 
-## RESULT:
-Thus the swapping of two values are successfully executed
-
 
 
