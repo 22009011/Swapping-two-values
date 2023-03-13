@@ -26,17 +26,17 @@ End the program
 ## PROGRAM:
 ```python
 #Program to swap two values.
-#Developed by: KABILAN T
-#RegisterNumber: 22009072
-input1 = input()
-input2 = input()
-temp = input2
-input2 = input1
-input1 = temp
-print('Swapped values are: {} {}'.format(input1,input2))
+#Developed by: Thanjiyappan.k
+#RegisterNumber: 22009011
+a=float(input())
+b=float(input())
+temp=a
+a=b
+b=temp
+print("Swapped values are: {0} {1}".format(a,b
 ```
 ## output:
-![output](Screenshot_20230102_075230.png)
+
 
 ## RESULT:
 
